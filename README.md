@@ -22,13 +22,15 @@
 <hr>
 
 ### Languages and Tools:
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></a>
+<a href="#" target="_blank"><img align="left" alt="HTML" height ="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"></a> 
+<a href="#" target="_blank"><img align="left" alt="CSS" height ="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></a> 
+<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="32px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> </a>
-<a href="https://de.overleaf.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/latex.svg" alt="LaTeX" height='32px'/> </a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" align="left" alt="git" height='32px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height='32px'/> </a>
-<a href="https://www.oracle.com/de/database/technologies/appdev/sql.html" target="_blank"> <img src="https://www.instana.com/media/01_INSTANA_IconSet_oracle.svg" alt="Oracle_Sql" height='32px'/> </a>
+<a href="https://de.overleaf.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/latex.svg" alt="LaTeX" height='32px'/> </a> 
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" align="left" alt="git" height='32px'/> </a> 
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height='32px'/> </a> 
+<a href="https://www.oracle.com/de/database/technologies/appdev/sql.html" target="_blank"> <img src="https://www.instana.com/media/01_INSTANA_IconSet_oracle.svg" alt="Oracle_Sql" height='32px'/> </a> 
 <hr>
 
 ### Currently learning
