@@ -2,7 +2,7 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/domenicwolf/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://contra.com/domenic_wolf" title="Portfolio"><img width="22" src="https://images.vexels.com/media/users/3/205564/isolated/preview/181219b1720d66fb3b80e3a2f2c87c1b-strich-des-website-cursorsymbols-by-vexels.png"> My Website</a></code>
+  <code><a href="https://contra.com/domenic_wolf" title="Portfolio"><img width="22" src="https://images.vexels.com/media/users/3/205564/isolated/preview/181219b1720d66fb3b80e3a2f2c87c1b-strich-des-website-cursorsymbols-by-vexels.png"> My Portfolio</a></code>
 </h5>
 <br>
 <p align="center">
