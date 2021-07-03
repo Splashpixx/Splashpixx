@@ -16,8 +16,7 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/Splashpixx/Splashpixx/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: DomenicWolf@icloud.com">DomenicWolf@icloud.com</a>
-</p>
+ 
 
 <hr>
 
